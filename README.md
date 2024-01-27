@@ -37,6 +37,7 @@ To run the app locally, use the following command:
 
 ```bash
 npm start
+```
 This will start the development server, and you can view the app in your browser at http://localhost:3000.
 
 ## Usage
