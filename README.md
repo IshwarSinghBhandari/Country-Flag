@@ -41,8 +41,13 @@ npm start
 This will start the development server, and you can view the app in your browser at http://localhost:3000.
 
 ## Usage
+
 1.Enter the name of the country in the input field.
+
 2.Press the "Search" button.
+
 3.The app will fetch information about the entered country and display it.
+
 ## Contributing
+
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback is highly appreciated.
